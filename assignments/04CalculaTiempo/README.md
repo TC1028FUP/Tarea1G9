@@ -17,15 +17,11 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Modifica el programa para que pregunte al usuario su edad y el año actual, como resultado le indicará el año en que cumplirá 100 años.
 
-
-
 Entrada:
 La edad (entero positivo) de la persona y el año actual (entero positivo), en este orden.
 
-
 Salida:
 El año (entero positivo) en el que la persona cumplirá 100 años.
-
 
 Ejemplo:
 ```
